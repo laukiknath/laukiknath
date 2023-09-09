@@ -3,6 +3,7 @@
 - 🌱 I’m currently pursuing B.Tech
 
 - 📫 Email Id - laukiknath@gmail.com
+- LinkedIn - https://www.linkedin.com/in/laukik-nath-jagbandhu-70b43026a/
 
 <!---
 laukiknath/laukiknath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

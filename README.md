@@ -2,6 +2,10 @@
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
 <p align="center">
+  <img src="assets/image.gif" alt="Laukik coding gif" width="500" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=laukiknath&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 

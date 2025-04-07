@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/rePDfFd4WOsXOAAAAd/hacking.gif" alt="Laukik coding gif" width="500" />
+  <img src="https://www.google.com/imgres?q=animated%20hacking%20gif%20for%20github&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F3e4ba60aaf08d8e8b8b91661ac3c263e3b0bb8ded371128dc3fe9b84b5464e42%2F68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966&imgrefurl=https%3A%2F%2Fgithub.com%2FKIRAN-KUMAR-K3&docid=N9e63IuTek191M&tbnid=B7gG5scsMcv2uM&vet=12ahUKEwjvjqP-8MWMAxW77TgGHa-fDbIQM3oECEgQAA..i&w=640&h=480&hcb=2&ved=2ahUKEwjvjqP-8MWMAxW77TgGHa-fDbIQM3oECEgQAA" alt="Laukik coding gif" width="500" />
 </p>
 
 <p align="center">

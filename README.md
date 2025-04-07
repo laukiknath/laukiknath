@@ -55,16 +55,3 @@
 
 ---
 
-### 📌 Featured Projects
-
-You can **pin your top 6 projects** on GitHub and add README files with:
-- What it does
-- Technologies used
-- How to run
-- Screenshots / GIFs
-
----
-
-Let me know if you'd like help writing READMEs for your projects too — I’d be happy to help with that next! 😄
-
-Want me to generate this markdown file for you with your custom email or portfolio site link?

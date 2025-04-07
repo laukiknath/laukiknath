@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!! 👋, I'm Laukik Nath Jagbandhu</h1>
+<h1 align="center">Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm <a href="https://www.linkedin.com/in/laukik-nath-jagbandhu-70b43026a/" target="_blank">Laukik Nath Jagbandhu</a></h1>
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
 <p align="center">

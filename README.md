@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on: **Vachak - Voice Assistant for Visually Impaired**
+- 🔭 Currently working on: **Smart Resume Builder**
 - 🌱 Exploring: **Flutter**, **Advanced Android**, and **DSA**
 - 💬 Ask me about: **Java**, **Android Studio**, **Firebase**, **React**
 - ⚡ Fun fact: I love turning coffee ☕ into code 💻
